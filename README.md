@@ -97,10 +97,7 @@ A Python-based machine learning project exploring URL-based phishing detection a
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iawaisriaz&theme=algolia&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=iawaisriaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
